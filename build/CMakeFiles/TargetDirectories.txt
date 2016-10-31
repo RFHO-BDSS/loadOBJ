@@ -1,0 +1,3 @@
+C:/Users/RFHO/Desktop/data/Models/FTP/loadOBJ/build/CMakeFiles/texture_load.dir
+C:/Users/RFHO/Desktop/data/Models/FTP/loadOBJ/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/RFHO/Desktop/data/Models/FTP/loadOBJ/build/CMakeFiles/ZERO_CHECK.dir
